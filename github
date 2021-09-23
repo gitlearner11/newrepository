@@ -1,0 +1,12 @@
+git --config user.name ""[Dnaveen[C[C
+git --config user.mail "nav@gmail.com"
+git init 
+git add
+git commit -m 
+git status
+git log 
+git merge 
+git pull 
+git fetch 
+git push origin 
+git show 
